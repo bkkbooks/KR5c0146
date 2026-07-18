@@ -564,6 +564,7 @@ markers:
       ', id: KR5c0146_krp_000-bkkkrnewl113}
   - {type: line-break, offset: 1540, content: '', id: KR5c0146_HFL_000-006a04}
   - {type: punctuation, offset: 1540, content: (, id: KR5c0146_krp_000-bkkpn1}
+  - {type: voice, offset: 1540, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1541, content: ), id: KR5c0146_krp_000-bkkpn2}
   - {type: indent, offset: 1545, content: 　, id: KR5c0146_krp_000-bkkind35}
   - {type: indent, offset: 1550, content: 　, id: KR5c0146_krp_000-bkkind36}
@@ -623,6 +624,7 @@ markers:
   - {type: line-break, offset: 1636, content: '', id: KR5c0146_HFL_000-006b02}
   - {type: indent, offset: 1636, content: 　　　, id: KR5c0146_krp_000-bkkind50}
   - {type: punctuation, offset: 1640, content: (, id: KR5c0146_krp_000-bkkpn3}
+  - {type: voice, offset: 1640, length: 18, name: note, id: n2}
   - {type: substitution, offset: 1645, original: 炁, replacement: 氣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19387}}
   - {type: punctuation, offset: 1649, content: /, id: KR5c0146_krp_000-bkkpn4}
   - {type: punctuation, offset: 1658, content: ), id: KR5c0146_krp_000-bkkpn5}
@@ -902,6 +904,7 @@ markers:
   - {type: indent, offset: 2169, content: 　, id: KR5c0146_krp_000-bkkind139}
   - {type: indent, offset: 2173, content: 　, id: KR5c0146_krp_000-bkkind140}
   - {type: punctuation, offset: 2174, content: (, id: KR5c0146_krp_000-bkkpn6}
+  - {type: voice, offset: 2174, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2175, content: /, id: KR5c0146_krp_000-bkkpn7}
   - {type: punctuation, offset: 2176, content: ), id: KR5c0146_krp_000-bkkpn8}
   - {type: indent, offset: 2178, content: 　, id: KR5c0146_krp_000-bkkind141}
@@ -970,4 +973,4 @@ markers:
 
       ', id: KR5c0146_krp_000-bkkkrnewl174}
   back: []
-hash: sha256:192b4d41841f0206d477ac7f24fec9512cdb62504a8ed00ed46d0f0f929e2778
+hash: sha256:577965695de91a955c3ccc9283654bc38dd58f83fbd01897c1644f87f964a285
